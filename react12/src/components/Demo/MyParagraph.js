@@ -1,7 +1,7 @@
 import React from 'react'
 
 function MyParagraph() {
-    console.log('hiiii');
+    //console.log('hiiii');
     return (
         <div></div>
     )
