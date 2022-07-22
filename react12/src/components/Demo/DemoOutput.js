@@ -12,5 +12,5 @@ function DemoOutput(props) {
 
 export default React.memo(DemoOutput)
 
-//3mul reexcute la hayda comp iza tgaayr el props bas..hik bta3mul memo hon
-// iza mafi new value ma tamul rexexutr
+//3mul re-excute la hayda component iza tgayar el props bas..hik el  memo hon
+// iza mafi new value ma tamul re-execute
